@@ -1,4 +1,4 @@
-module https:/github.com/ArtyomShevchuk/protos
+module https://github.com/ArtyomShevchuk/protos
 
 go 1.26.2
 
